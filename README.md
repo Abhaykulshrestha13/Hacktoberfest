@@ -4,7 +4,7 @@ You can solve any unsolved solution in this repo.
 
 ## Steps To Contribute
 
-- Fork The Repo
+- Fork The Repo.
 - Find a question that has not been solved yet or has a better solution.
 - Solve the question make sure you get the expected answer.  
 - Put your code with name `problem_number.extension`  in respective folder of the language used.  
